@@ -1,0 +1,2 @@
+# Mastermind
+Ein bekanntes Steckspiel
